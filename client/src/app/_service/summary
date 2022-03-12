@@ -1,0 +1,3 @@
+Services:
+Injectable
+Singleton: data stored in service does not get destroy when service not closed down
